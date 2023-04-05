@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Thirassia
-- 👀 I’m interested in web and frontend development
-- 🌱 I’m currently learning functional programming (Haskell) and DevOps
+- 👀 I’m interested in web, cloud and frontend development
+- 🌱 I’m currently learning to code an interpreter to a made-up programming language
+- 🧩 Languages: JavaScript (Node, React, Vue), Python, Java, Haskell, Elm
 
 <!---
 - 💞️ I’m looking to collaborate on ...
